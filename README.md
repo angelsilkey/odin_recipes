@@ -1,1 +1,1 @@
-# odin_recipes
+This project is to practice all of the basic HTML I have learned so far. I will have demonstrated use of headers, paragraphs, italics, bold words, image insertion and link insertion.
