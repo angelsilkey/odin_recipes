@@ -1,8 +1,18 @@
 .header {
     color: rgb(0, 139, 185);
+    text-align: center;
 }
 
 .desc {
     color:rgb(0, 139, 185);
     font-size: 18px;
+    text-align: center;
+}
+
+.content {
+    text-align: center;
+}
+
+.button {
+    background-color:lightskyblue;
 }

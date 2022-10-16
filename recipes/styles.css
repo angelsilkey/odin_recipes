@@ -5,4 +5,10 @@
 
 .headers {
     color:rgb(0, 139, 185);
+    text-align: center;
+}
+
+.text {
+    font-size: 18px;
+    inline-size: 400px;
 }
